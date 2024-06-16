@@ -1,3 +1,1 @@
-# MsRwGWO-
-Multi-strategy Random weighted Gray Wolf Optimizer 
-Tufan Inac, Emrah Dokur & Ugur Yuzgec
+Here, Accelerated Opposition Learning based Chaotic Single Candidate Optimization Algorithm (AccOppCSCO) can be tried for CEC2014 test suit
